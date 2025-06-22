@@ -1,0 +1,16 @@
+# Folders
+/node_modules
+/.vscode
+
+# Files
+/.env
+/.env.dev
+/package-lock.json
+
+# Config Files
+
+# Extensions
+*.zip
+*.exe
+*.db
+*.development.json
